@@ -60,3 +60,4 @@ ts_utc,symbol,long_pct,short_pct,long_lots,short_lots,long_positions,short_posit
 2026-10-12T01:42:34Z,XAUUSD,60.0,40.0,152.34,100.28,787.0,476.0,browser
 2026-10-12T02:42:57Z,XAUUSD,60.0,40.0,149.53,100.32,764.0,485.0,browser
 2026-10-12T03:42:26Z,XAUUSD,60.0,40.0,150.09,100.97,772.0,483.0,browser
+2026-10-13T17:42:44Z,XAUUSD,62.0,38.0,1156.43,717.32,8904.0,4142.0,browser
